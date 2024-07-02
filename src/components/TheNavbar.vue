@@ -41,6 +41,9 @@
 					<li>
 						<RouterLink to="/about" class="nav-item">About</RouterLink>
 					</li>
+					<li>
+						<a href="https://bimatubc.github.io/course-review">Course Review</a>
+					</li>
 				</ul>
 			</div>
 		</div>

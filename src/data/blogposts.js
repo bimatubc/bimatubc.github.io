@@ -4,12 +4,12 @@
  */
 export const blogposts = [
 	{
-		title: 'Blog Title',
+		title: 'Blog Example',
 		created_at: '2024-07-01T00:00:00.000Z',
 		edited_at: '2024-07-01T00:00:00.000Z',
-		type: 'article',
-		url: '/',
-		preview: 'Blog Preview',
-		author: 'Blog Author'
+		type: 'tutorial',
+		url: '/blogs/example',
+		preview: "An example of a blog I wrote based on Flowbite's blog template",
+		author: 'Muhamad Nabil Alhanif'
 	}
 ]

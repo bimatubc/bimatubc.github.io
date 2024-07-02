@@ -14,7 +14,7 @@
 							</div>
 							<div>
 								<a href="#" rel="author" class="text-xl font-bold text-gray-900 dark:text-white"
-									>Test Author</a
+									>Muhamad Nabil Alhanif</a
 								>
 								<p class="text-base text-gray-500 dark:text-gray-400">
 									<DateComponent :iso-date-string="created_at" message="Created on: " />
